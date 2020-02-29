@@ -1,0 +1,229 @@
+{
+  "CustomSummary": {
+    "SkirmishStats": {
+      "SinglePlayerStats": {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "PT3H39M24.337S",
+        "TotalMatchesStarted": 6,
+        "TotalMatchesCompleted": 3,
+        "TotalMatchesWon": 3,
+        "TotalMatchesLost": 3,
+        "TotalPointCaptures": 22,
+        "TotalUnitsBuilt": 264,
+        "TotalUnitsLost": 121,
+        "TotalUnitsDestroyed": 1303,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 29,
+        "LeaderStats": {
+          "Johnson": {
+            "TotalTimePlayed": "PT1H16M14S",
+            "TotalMatchesStarted": 2,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 2,
+            "TotalLeaderPowersCast": 10
+          },
+          "Lekgolo": {
+            "TotalTimePlayed": "PT2M35S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 0,
+            "TotalMatchesWon": 0,
+            "TotalMatchesLost": 1,
+            "TotalLeaderPowersCast": 0
+          },
+          "Decimus": {
+            "TotalTimePlayed": "PT52M46.612S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 21
+          },
+          "Jerome": {
+            "TotalTimePlayed": "PT31M34.6S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 45
+          },
+          "YapYap": {
+            "TotalTimePlayed": "PT56M14.125S",
+            "TotalMatchesStarted": 1,
+            "TotalMatchesCompleted": 1,
+            "TotalMatchesWon": 1,
+            "TotalMatchesLost": 0,
+            "TotalLeaderPowersCast": 40
+          }
+        },
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      "MultiplayerStats": {
+        "PlaylistId": null,
+        "PlaylistClassification": null,
+        "HighestCsr": null,
+        "TotalTimePlayed": "",
+        "TotalMatchesStarted": 0,
+        "TotalMatchesCompleted": 0,
+        "TotalMatchesWon": 0,
+        "TotalMatchesLost": 0,
+        "TotalPointCaptures": 0,
+        "TotalUnitsBuilt": 0,
+        "TotalUnitsLost": 0,
+        "TotalUnitsDestroyed": 0,
+        "TotalCardPlays": 0,
+        "HighestWaveCompleted": 0,
+        "LeaderStats": {},
+        "GameMode": null,
+        "HighestObjectiveScoreByTeamSize": {}
+      },
+      "SinglePlayerModeStats": [
+        {
+          "PlaylistId": null,
+          "PlaylistClassification": null,
+          "HighestCsr": null,
+          "TotalTimePlayed": "PT2H51M36.337S",
+          "TotalMatchesStarted": 4,
+          "TotalMatchesCompleted": 3,
+          "TotalMatchesWon": 3,
+          "TotalMatchesLost": 1,
+          "TotalPointCaptures": 22,
+          "TotalUnitsBuilt": 226,
+          "TotalUnitsLost": 103,
+          "TotalUnitsDestroyed": 865,
+          "TotalCardPlays": 0,
+          "HighestWaveCompleted": 0,
+          "LeaderStats": {
+            "Johnson": {
+              "TotalTimePlayed": "PT31M1S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 0,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 3
+            },
+            "Decimus": {
+              "TotalTimePlayed": "PT52M46.612S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 1,
+              "TotalMatchesLost": 0,
+              "TotalLeaderPowersCast": 21
+            },
+            "Jerome": {
+              "TotalTimePlayed": "PT31M34.6S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 1,
+              "TotalMatchesLost": 0,
+              "TotalLeaderPowersCast": 45
+            },
+            "YapYap": {
+              "TotalTimePlayed": "PT56M14.125S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 1,
+              "TotalMatchesWon": 1,
+              "TotalMatchesLost": 0,
+              "TotalLeaderPowersCast": 40
+            }
+          },
+          "GameMode": 3,
+          "HighestObjectiveScoreByTeamSize": {
+            "2": 0,
+            "3": 0
+          }
+        },
+        {
+          "PlaylistId": null,
+          "PlaylistClassification": null,
+          "HighestCsr": null,
+          "TotalTimePlayed": "PT45M13S",
+          "TotalMatchesStarted": 1,
+          "TotalMatchesCompleted": 0,
+          "TotalMatchesWon": 0,
+          "TotalMatchesLost": 1,
+          "TotalPointCaptures": 0,
+          "TotalUnitsBuilt": 35,
+          "TotalUnitsLost": 18,
+          "TotalUnitsDestroyed": 438,
+          "TotalCardPlays": 0,
+          "HighestWaveCompleted": 29,
+          "LeaderStats": {
+            "Johnson": {
+              "TotalTimePlayed": "PT45M13S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 0,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 7
+            }
+          },
+          "GameMode": 10,
+          "HighestObjectiveScoreByTeamSize": {
+            "1": 0
+          }
+        },
+        {
+          "PlaylistId": null,
+          "PlaylistClassification": null,
+          "HighestCsr": null,
+          "TotalTimePlayed": "PT2M35S",
+          "TotalMatchesStarted": 1,
+          "TotalMatchesCompleted": 0,
+          "TotalMatchesWon": 0,
+          "TotalMatchesLost": 1,
+          "TotalPointCaptures": 0,
+          "TotalUnitsBuilt": 3,
+          "TotalUnitsLost": 0,
+          "TotalUnitsDestroyed": 0,
+          "TotalCardPlays": 0,
+          "HighestWaveCompleted": 0,
+          "LeaderStats": {
+            "Lekgolo": {
+              "TotalTimePlayed": "PT2M35S",
+              "TotalMatchesStarted": 1,
+              "TotalMatchesCompleted": 0,
+              "TotalMatchesWon": 0,
+              "TotalMatchesLost": 1,
+              "TotalLeaderPowersCast": 0
+            }
+          },
+          "GameMode": 5,
+          "HighestObjectiveScoreByTeamSize": {
+            "2": 0
+          }
+        }
+      ],
+      "MultiplayerModeStats": []
+    },
+    "CustomStats": {
+      "PlaylistId": null,
+      "PlaylistClassification": null,
+      "HighestCsr": null,
+      "TotalTimePlayed": "",
+      "TotalMatchesStarted": 0,
+      "TotalMatchesCompleted": 0,
+      "TotalMatchesWon": 0,
+      "TotalMatchesLost": 0,
+      "TotalPointCaptures": 0,
+      "TotalUnitsBuilt": 0,
+      "TotalUnitsLost": 0,
+      "TotalUnitsDestroyed": 0,
+      "TotalCardPlays": 0,
+      "HighestWaveCompleted": 0,
+      "LeaderStats": {},
+      "GameMode": null,
+      "HighestObjectiveScoreByTeamSize": {}
+    },
+    "CustomModeStats": []
+  },
+  "MatchmakingSummary": {
+    "SocialPlaylistStats": [],
+    "RankedPlaylistStats": [],
+    "SocialModeStats": [],
+    "RankedModeStats": []
+  }
+}

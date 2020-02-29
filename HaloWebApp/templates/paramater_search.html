@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<style>
+    body {
+        background-image: url("HaloBG.jpg");
+    }
+    p{
+        color: aliceblue;
+    }
+    div{
+        color: antiquewhite;
+    }
+</style>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+  <h2>Halo Wars 2 </h2>
+  <p>Please select a option for your Halo Wars 2 stats</p>
+
+
+  <!--<div class="form-group">
+      <label for="Gamertag">Gamertag:</label>
+         <input type="text" class="form-control" id="Gamertag">
+  </div>-->
+</div>
+
+</body>
+</html>
+
+
+
+  {% for i in labels %}
+            {{ i }}
+            {% endfor %}
+
+        </td>
+    </tr>
+    <tr>
+        <td>
+            {% for j in values %}
+            {{ j }}
+            {% endfor %}
